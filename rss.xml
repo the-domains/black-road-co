@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Black Road Co.]]></title>
         <description><![CDATA[Black Road Co.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/black-road-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 05:54:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 05:55:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-road-co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What Is The Black Road Co.?]]></title>
-            <description><![CDATA[<p>What Is The Black Road Co.? We're a Men's Accesories company that specializes in two things : Bringing you great, cultivated items you need as a man, and Helping people. Annually, we donate 15% of our profits to Cancer Research.</p>]]></description>
-            <link>undefinedwhat-is-the-black-road-co/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/775809a5-70a6-4eaa-8ec6-6d1bfb0e1061.jpg">]]></description>
+            <link>https://thegrid.ai/black-road-co/what-is-the-black-road-co/index.html</link>
             <guid isPermaLink="false">02eab4cc-527d-495e-be5c-56690a1e0ab1</guid>
-            <pubDate>Sat, 23 Apr 2016 05:54:05 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 05:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
