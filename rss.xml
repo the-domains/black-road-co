@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Black Road Co.]]></title>
+        <description><![CDATA[Black Road Co.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 05:54:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Is The Black Road Co.?]]></title>
+            <description><![CDATA[<p>What Is The Black Road Co.? We're a Men's Accesories company that specializes in two things : Bringing you great, cultivated items you need as a man, and Helping people. Annually, we donate 15% of our profits to Cancer Research.</p>]]></description>
+            <link>undefinedwhat-is-the-black-road-co/index.html</link>
+            <guid isPermaLink="false">02eab4cc-527d-495e-be5c-56690a1e0ab1</guid>
+            <pubDate>Sat, 23 Apr 2016 05:54:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
